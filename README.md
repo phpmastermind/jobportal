@@ -1,4 +1,4 @@
 # jobportal
-$ cd jobportal
-$ npm install
-$ npm run server
+$ cd jobportal \n
+$ npm install \n
+$ npm run server \n
